@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="829053c2-f35e-4ba1-b38d-320d3db174c2" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Wolf\Cs\homeWork\Maven" />
+        <option name="mavenHome" value="D:/Wolf/Cs/apache-maven-3.6.3/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Wolf\Cs\apache-maven-3.6.3\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NMJqEepHWZkv5F38HrC62Dafri" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.springcloud" />
+      <recent name="com.example.springcloud.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\Weixipingtai\GitDown\demo3\src\main\resources" />
+      <recent name="D:\Work\Weixipingtai\GitDown\demo3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PaymentMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springcloud.PaymentMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.PaymentMain9001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="829053c2-f35e-4ba1-b38d-320d3db174c2" name="默认更改列表" comment="" />
+      <created>1679468206182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679468206182</updated>
+      <workItem from="1679468208282" duration="264000" />
+      <workItem from="1679468493777" duration="248000" />
+      <workItem from="1679468976008" duration="4269000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交 fengjw">
+      <created>1679472603225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679472603225</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交 fengjw" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交 fengjw" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="75" width="1155" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1679471596188">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="75" width="1155" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1679471596188" />
+    <state x="912" y="226" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1679469348334">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="912" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1679469348334" />
+    <state x="937" y="307" width="428" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1679469544100">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="937" y="307" width="428" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1679469544100" />
+    <state x="398" y="15" key="CommitChangelistDialog2" timestamp="1679472600904">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="398" y="15" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1679472600904" />
+    <state width="1493" height="149" key="GridCell.Tab.0.bottom" timestamp="1679471910913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1679471910913" />
+    <state width="1493" height="149" key="GridCell.Tab.0.center" timestamp="1679471910913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1679471910913" />
+    <state width="1493" height="149" key="GridCell.Tab.0.left" timestamp="1679471910913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1679471910913" />
+    <state width="1493" height="149" key="GridCell.Tab.0.right" timestamp="1679471910913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1679471910913" />
+    <state width="1493" height="149" key="GridCell.Tab.1.bottom" timestamp="1679471910857">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1679471910857" />
+    <state width="1493" height="149" key="GridCell.Tab.1.center" timestamp="1679471910857">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1679471910857" />
+    <state width="1493" height="149" key="GridCell.Tab.1.left" timestamp="1679471910857">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1679471910857" />
+    <state width="1493" height="149" key="GridCell.Tab.1.right" timestamp="1679471910857">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1679471910857" />
+    <state width="1493" height="149" key="GridCell.Tab.2.bottom" timestamp="1679471910857">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1679471910857" />
+    <state width="1493" height="149" key="GridCell.Tab.2.center" timestamp="1679471910857">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1679471910857" />
+    <state width="1493" height="149" key="GridCell.Tab.2.left" timestamp="1679471910857">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1679471910857" />
+    <state width="1493" height="149" key="GridCell.Tab.2.right" timestamp="1679471910857">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1679471910857" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1679474359118">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1679474359118" />
+    <state x="863" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1679468976020">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="863" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1679468976020" />
+    <state x="479" y="219" key="git4idea.merge.GitPullDialog" timestamp="1679472178818">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="479" y="219" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1679472178818" />
+    <state x="577" y="296" key="git4idea.rebase.GitRebaseDialog" timestamp="1679472550532">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="577" y="296" key="git4idea.rebase.GitRebaseDialog/0.0.1536.834@0.0.1536.834" timestamp="1679472550532" />
+  </component>
+</project>
